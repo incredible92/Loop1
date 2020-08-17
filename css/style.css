@@ -1,0 +1,72 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  background-color: #2a7fb9;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.wrapper {
+  background-color: white;
+  margin: 0 auto;
+  width: 72vw;
+  height: 55vh;
+  border-radius: 7px;
+  margin-top: 6rem;
+  display: flex;
+}
+
+.container-1 {
+  text-align: center;
+  margin: 2rem;
+}
+
+.container-1:hover {
+  background-color: lightgrey;
+}
+
+.container-2 {
+  text-align: center;
+  margin: 2rem;
+}
+.container-2:hover {
+  background-color: lightgrey;
+}
+
+.container-3 {
+  text-align: center;
+  margin: 2rem;
+}
+
+.container-3:hover {
+  background-color: lightgrey;
+}
+
+.mobile,
+.desktop,
+.tv {
+  padding-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.mob,
+.desk,
+.tv-1 {
+  color: blue;
+  font-weight: 600;
+}
+
+.price {
+  color: blue;
+  font-weight: 600;
+}
+
+p {
+  color: gray;
+}
+
+.image {
+  width: 5rem;
+  height: 5rem;
+}
